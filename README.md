@@ -31,7 +31,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeperanovich&layout=compact)
 
 <div style="flex-basis: 48%;">
-  <h3>Linguagens que estou estudando:</h3>
+  <h3>Tecnologias que estou estudando:</h3>
   <img align="center" alt="Java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
