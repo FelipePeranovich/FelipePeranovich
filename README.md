@@ -21,7 +21,7 @@
 - 🏫 Pela Faculdade de Tecnologia do Estado de São Paulo, FATEC - Jornalista Omair Fagundes de Oliveira - Bragança Paulista
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipeperanovich)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipeperanovich)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felipe_peranovich)
 
 
