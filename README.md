@@ -18,7 +18,9 @@
 
 - ✏️ Sou estudante do 3º Semestre de Análise e Desinvolvimento de Sistemas
 
-- 🏫 Pela Faculdade de Tecnologia do Estado de São Paulo, FATEC - Jornalista Omair Fagundes de Oliveira - Bragança Paulista
+- 🏫 Faculdade de Tecnologia do Estado de São Paulo, FATEC - Jornalista Omair Fagundes de Oliveira - Bragança Paulista
+  
+- 📧 E-Mail para contato: felipe.perano@gmail.com
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipeperanovich)
