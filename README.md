@@ -2,17 +2,23 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá!👋 </h1></summary>
 </div>
-    <div align="center">
+
+
+<div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
   </a>
 </div>
-<p>
-😄 Me chamo Felipe Gomes Peranovich
-  
-✏️ Sou estudante do 3º Semestre de Análise e Desinvolvimento de Sistemas
+<div aling="center">
+   <h2>Me chamo Felipe Gomes Peranovich 🙋🏻‍♂️</h2>
+</div>
+ 
 
-🏫 Pela Faculdade de Tecnologia do Estado de São Paulo, FATEC - Jornalista Omair Fagundes de Oliveira - Bragança Paulista
+<p>
+
+- ✏️ Sou estudante do 3º Semestre de Análise e Desinvolvimento de Sistemas
+
+- 🏫 Pela Faculdade de Tecnologia do Estado de São Paulo, FATEC - Jornalista Omair Fagundes de Oliveira - Bragança Paulista
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipeperanovich)
@@ -35,4 +41,5 @@
   <img align="center" alt="netbeans"src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
   <img align="center" alt="vscode"src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
+
   
