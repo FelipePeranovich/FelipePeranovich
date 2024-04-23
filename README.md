@@ -28,7 +28,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeperanovich&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeperanovich&layout=compact)-->
 
 <div style="flex-basis: 48%;">
   <h3>Tecnologias que estou estudando:</h3>
