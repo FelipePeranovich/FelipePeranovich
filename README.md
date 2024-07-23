@@ -16,7 +16,7 @@
 
 <p>
 
-- ✏️ Sou estudante do 3º Semestre de Análise e Desenvolvimento de Sistemas
+- ✏️ Sou estudante do 4º Semestre de Análise e Desenvolvimento de Sistemas
 
 - 🏫 Faculdade de Tecnologia do Estado de São Paulo, FATEC - Jornalista Omair Fagundes de Oliveira - Bragança Paulista
   
@@ -28,15 +28,15 @@
 
 
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeperanovich&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeperanovich&layout=compact)
 
 <div style="flex-basis: 48%;">
   <h3>Tecnologias que estou estudando:</h3>
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <div style="flex-basis: 48%;">
   <h3>IDEs que utilizo:</h3>
