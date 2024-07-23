@@ -3,12 +3,6 @@
     <summary><h1 style="display: inline-block">Olá!👋 </h1></summary>
 </div>
 
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div>
 <div aling="center">
    <h2>Me chamo Felipe Gomes Peranovich 🙋🏻‍♂️</h2>
 </div>
