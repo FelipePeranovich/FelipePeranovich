@@ -10,7 +10,7 @@
 
 <p>
 
-- ✏️ Sou estudante do 4º Semestre de Análise e Desenvolvimento de Sistemas
+- ✏️ Sou estudante do 5º Semestre de Análise e Desenvolvimento de Sistemas
 
 - 🏫 Faculdade de Tecnologia do Estado de São Paulo, FATEC - Jornalista Omair Fagundes de Oliveira - Bragança Paulista
   
